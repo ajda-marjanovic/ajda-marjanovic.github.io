@@ -3,11 +3,7 @@ layout: page
 title: Research
 permalink: /Research/
 ---
-I am a first-year PhD Student in Economics at Luiss Guido Carli University in Rome, Italy.
 
-My main research interests are in the field of financial econometrics, specifically topics related to volatility modelling and market microstructure issues.
-
-
-### Contact me
-[marjanovicajda@gmail.com](mailto:marjanovicajda@gmail.com)  
-[amarjanovic@luiss.it](mailto:amarjanovic@luiss.it)
+**Master's thesis**  
+Forecasting Realized Variance: A Comparison between HAR and ARFIMA models  
+[Read here](http://www.cek.ef.uni-lj.si/magister/marjanovic4166-B.pdf)
