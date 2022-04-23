@@ -3,13 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+I am a first-year PhD Student in Economics at Luiss Guido Carli University in Rome, Italy. My main research interests are in the field of financial econometrics, specifically topics related to volatility modelling and market microstructure issues.
 
-Some information about you!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[marjanovicajda@gmail.com](mailto:marjanovicajda@gmail.com)
+[amarjanovic@luiss.it](mailto:amarjanovic@luiss.it)
