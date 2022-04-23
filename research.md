@@ -4,6 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-**Master's thesis**  
-Forecasting Realized Variance: A Comparison between HAR and ARFIMA models  
+**Forecasting Realized Variance: A Comparison between HAR and ARFIMA models**   
+Master's thesis (2021)    
 [Read here](http://www.cek.ef.uni-lj.si/magister/marjanovic4166-B.pdf)
