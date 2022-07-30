@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  {% seo %}<head>
+  <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
@@ -14,6 +14,7 @@
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
     <meta name="google-site-verification" content="8FqWcQjOTckt7t8oD3IRLvB1XByu8wtu2QxXnyfbuR0" />
+    {% seo %}
   </head>
 
   <body>
