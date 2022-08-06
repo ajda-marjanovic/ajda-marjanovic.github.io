@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: #8E8EB3;
+  color: #626292;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #8E8EB3;
+    color: #626292;
   }
 }
 
@@ -233,7 +233,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: #8E8EB3;
+      color: #626292;
     }
   }
 }
