@@ -4,7 +4,6 @@ title: Research
 permalink: /research/
 ---
 #### Working papers
--
 
 #### Master's thesis
 
