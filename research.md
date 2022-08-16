@@ -3,9 +3,9 @@ layout: page
 title: Research
 permalink: /research/
 ---
-#### Working papers
+***Working papers***
 
-#### Master's thesis
+***Master's thesis***
 
 <img src="https://github.com/ajda-marjanovic/ajda-marjanovic.github.io/blob/master/images/intervals.png?raw=true" width="300">  
 
