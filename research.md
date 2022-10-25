@@ -4,6 +4,7 @@ title: Research
 permalink: /research/
 ---
 ***Working papers***
+**Measuring Crowd Risk (2022)**
 
 ***Master's thesis***
 
