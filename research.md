@@ -5,7 +5,7 @@ permalink: /research/
 ---
 ***Work in progress***
 
-**Measuring Crowd Risk (2022)**
+**Measuring Crowd Risk**
 
 ***Master's thesis***
 
