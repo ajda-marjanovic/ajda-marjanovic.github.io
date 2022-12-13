@@ -6,4 +6,4 @@ permalink: /CV/
 
 [Download](https://ajda-marjanovic.github.io/CV_Marjanovic.pdf)
 
-<embed src="https://ajda-marjanovic.github.io/CV_Marjanovic.pdf" type="application/pdf" />
+<embed src="https://ajda-marjanovic.github.io/CV_Marjanovic.pdf" type="application/pdf" width="1000px" height="800px"/>
