@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a second-year PhD Student in Economics at Luiss Guido Carli University in Rome, Italy.
 
-My main research interests are in the field of financial econometrics and market microstructure issues.
+My main research interests are in the field of financial econometrics and market microstructure.
 
 #### Contact me
 [marjanovicajda@gmail.com](mailto:marjanovicajda@gmail.com)  
