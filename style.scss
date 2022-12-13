@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 30px;
   a {
     color: inherit;
   }
@@ -79,8 +79,8 @@ a {
 }
 
 ul, ol {
-  margin: 16px 0;
-  padding-left: 32px;
+  margin: 15px 0;
+  padding-left: 30px;
 }
 
 ul {
@@ -108,7 +108,7 @@ strong, b {
 }
 
 img {
-  max-width: 150%;
+  max-width: 100%;
 }
 
 // Fixes images in popup boxes from Google Translate
