@@ -5,7 +5,7 @@ permalink: /research/
 ---
 ***Work in progress***
 
-*Measuring Crowd Risk*
+*Reddit Fanatics: Information or Noise*
 
 ***Master's thesis***
 
