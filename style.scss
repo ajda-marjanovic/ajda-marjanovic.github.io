@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: #F9F9FB;
+	background: #e6e5e0;
 	font-family: 'Fira Sans', sans-serif;
   	font: 21px/1.4;
   	color: $darkGray;
@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: #626292;
+  color: #576065;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #626292;
+    color: #576065;
   }
 }
 
@@ -233,7 +233,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: #626292;
+      color: #576065;
     }
   }
 }
@@ -276,7 +276,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: #eaeaf1;
+  background-color: #b8bdb6;
 }
 
 footer {
