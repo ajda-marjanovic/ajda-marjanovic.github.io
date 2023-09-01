@@ -5,7 +5,7 @@ permalink: /research/
 ---
 ***Work in progress***
 
-*Fanatic Views on Reddit: Information or Noise*
+*Extreme Views on Reddit: Information or Noise*
 
 ***Master's thesis***
 
