@@ -7,7 +7,7 @@ permalink: /research/
 
 *Extreme Views on Reddit: Information or Noise*
 
-<img src="https://github.com/ajda-marjanovic/ajda-marjanovic.github.io/blob/master/images/fanaticshare.eps?raw=true" width="300">  
+<img src="https://github.com/ajda-marjanovic/ajda-marjanovic.github.io/blob/master/images/fanaticshare.png?raw=true" width="300">  
 
 ***Master's thesis***
 
