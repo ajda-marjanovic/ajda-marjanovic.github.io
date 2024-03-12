@@ -14,13 +14,13 @@
 /**************/
 
 html {
-  font-size: 80%;
+  font-size: 100%;
 }
 
 body {
 	background: #FAF9F8;
 	font-family: 'Fira Sans', sans-serif;
-  	font: 21px/1.4;
+  	font: 18px/1.4;
   	color: $darkGray;
 }
 
@@ -46,22 +46,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 24px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 28px;
+  font-size: 22px;
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 18px;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 16px;
   color: $gray;
 }
 
@@ -215,13 +215,13 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: 'Fira Sans', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
 
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 16px;
+    font-size: 14px;
   }
 
   a {
@@ -258,7 +258,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 18px;
     font-style: italic;
   }
 
@@ -268,7 +268,7 @@ nav {
 
   .read-more {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 14px;
   }
 }
 
