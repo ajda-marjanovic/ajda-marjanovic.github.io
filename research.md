@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-***Work in progress***
+***Working papers***
 
 Extreme Views on Reddit: Information or Noise [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4762725)
 
