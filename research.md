@@ -5,7 +5,7 @@ permalink: /research/
 ---
 ***Work in progress***
 
-Extreme Views on Reddit: Information or Noise
+Extreme Views on Reddit: Information or Noise [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4762725)
 
 <img src="https://github.com/ajda-marjanovic/ajda-marjanovic.github.io/blob/master/images/fanaticshare.png?raw=true" width="400">  
 
