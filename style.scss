@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: #F4EFED; 
+	background: #EBE9E1; 
 	font-family: 'Fira Sans', sans-serif;
   	font: 21px/1.4;
   	color: $darkGray;
@@ -74,7 +74,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color:  #6C8B7C;
+    color:  #EFB11D;
   }
 }
 
@@ -276,7 +276,7 @@ nav {
   margin-top: 20px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: #b84c44;
+  background-color: #E43D12;
 }
 
 footer {
