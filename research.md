@@ -11,7 +11,7 @@ permalink: /research/
 
 **Work in progress**
 
-Noise-creating Large Investors and Liquidity Spillovers
+Non-fundamental Trading Motives and Liquidity
 
 **Master's thesis**
 
