@@ -4,7 +4,7 @@ title: Code
 permalink: /code/
 ---
 
-[Introduction to Python for Asset Pricing / Financial Economics](https://github.com/ajda-marjanovic/Intro-to-Python-for-Asset-Pricing.git)
+[**Introduction to Python for Asset Pricing / Financial Economics**](https://github.com/ajda-marjanovic/Intro-to-Python-for-Asset-Pricing.git)
 
 This repository contains Python files that I have created for a Master's course in Asset Pricing / Financial Economics.
 
