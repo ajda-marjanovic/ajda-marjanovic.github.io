@@ -7,7 +7,7 @@ permalink: /research/
 
 [Extreme Views on Reddit: Information or Noise](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4762725)
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: center;">
   <div style="flex: 2;">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4762725" target="_blank">
       <img src="https://github.com/ajda-marjanovic/ajda-marjanovic.github.io/blob/master/images/fanaticshare.png?raw=true" style="width: 100%;" alt="Paper Image">
