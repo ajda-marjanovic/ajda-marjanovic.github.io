@@ -5,7 +5,7 @@ permalink: /research/
 ---
 **Working papers**
 
-### [Extreme Views on Reddit: Information or Noise](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4762725)
+[Extreme Views on Reddit: Information or Noise](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4762725)
 
 <div style="display: flex; align-items: flex-start; margin-top: 15px;">
   <!-- Left side with the image and link -->
