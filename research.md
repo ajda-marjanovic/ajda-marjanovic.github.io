@@ -10,7 +10,7 @@ permalink: /research/
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 2;">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4762725" target="_blank">
-      <img src="https://github.com/ajda-marjanovic/ajda-marjanovic.github.io/blob/master/images/fanaticshare.png?raw=true" width="300" alt="Paper Image">
+      <img src="https://github.com/ajda-marjanovic/ajda-marjanovic.github.io/blob/master/images/fanaticshare.png?raw=true" style="width: 100%;" alt="Paper Image">
     </a>
   </div>
 
