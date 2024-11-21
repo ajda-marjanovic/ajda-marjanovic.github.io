@@ -17,7 +17,7 @@ permalink: /research/
 
 **Work in progress**
 
-Non-fundamental Trading Motives and Liquidity
+Large Traders and Liquidity Spillovers
 
 **Master's thesis**
 
