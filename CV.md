@@ -4,6 +4,6 @@ title: CV
 permalink: /CV/
 ---
 
-<div style="display: flex; justify-content: center; align-items: flex-start; height: 100vh;">
+<div style="display: flex; justify-content: center; align-items: flex-start; min-height: 100vh;">
   <embed src="https://ajda-marjanovic.github.io/CV_Marjanovic.pdf#navpanes=0" type="application/pdf" width="700px" height="580px"/>
 </div>
