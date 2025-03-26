@@ -17,7 +17,7 @@ permalink: /research/
 
 **Work in progress**
 
-Large Traders and Liquidity Spillovers
+Large Traders in Segmented Markets
 
 **Master's thesis**
 
