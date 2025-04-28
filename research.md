@@ -17,7 +17,15 @@ permalink: /research/
 
 **Work in progress**
 
-Large Traders in Segmented Markets
+Large Traders in Segmented Markets  (*Draft coming soon*)
+
+<img src="https://github.com/ajda-marjanovic/ajda-marjanovic.github.io/blob/master/images/transparent.png?raw=true" width="400">
+
+<div style="text-align: justify;">
+  <em>
+	This paper studies the effect of large strategic investors on price efficiency and the spillover of price impact across markets, which is an important concern for financial regulators. The static two-period model features two correlated assets, and investors of different sizes, who are heterogeneous in their investment opportunities, generating heterogeneous trading motives. The model yields novel results on the impact of imperfect competition on price informativeness and its impact on demand in segmented markets. The model can be applied to green bond and carbon futures markets, highlighting implications that are crucial for supporting the green transition.
+     </em>
+</div>
 
 **Master's thesis**
 
