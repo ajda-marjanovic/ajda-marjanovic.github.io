@@ -15,7 +15,8 @@ permalink: /research/
     </em>
 </div>
 
-Large Traders in Segmented Markets  (*Draft coming soon*)
+
+[Large Traders in Segmented Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5453554) (2025)
 
 <img src="https://github.com/ajda-marjanovic/ajda-marjanovic.github.io/blob/master/images/transparent.png?raw=true" width="400">
 
